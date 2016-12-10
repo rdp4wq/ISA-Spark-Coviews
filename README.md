@@ -2,6 +2,7 @@
 Spark Coviews
 
 Instructions:
+
 In a terminal:
 
 docker-compose up
